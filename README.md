@@ -113,3 +113,4 @@ The project uses:
 ![image](https://github.com/user-attachments/assets/348fdca7-29f2-46d7-b86d-4f49342f0ccd)
 
 # chore(init): initialize project structure
+# docs(readme): add project documentation and setup guide
